@@ -70,6 +70,6 @@ A plot displaying the Receiver Operating Characteristic (ROC) curve, illustratin
 ## Files in Repository
 
 - `Lead_Scoring_Analysis.ipynb`: Jupyter notebook containing the analysis and model building process.
-- `Lead_Scoring_Analysis_Presentation.pptx`: Presentation summarizing the findings and recommendations.
-- `Summary Report.docx`: Detailed report outlining the process, findings, and strategies.
-- `Assignment_Solutions_Completed.docx`: Solutions to assignment questions related to the analysis.
+- `Lead_Scoring_Analysis_Presentation.pdf`: Presentation summarizing the findings and recommendations.
+- `Summary Report.pdf`: Detailed report outlining the process, findings, and strategies.
+- `Assignment_Solutions_Completed.pdf`: Solutions to assignment questions related to the analysis.
